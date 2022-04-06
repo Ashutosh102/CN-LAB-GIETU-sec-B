@@ -1,2 +1,2 @@
-# CN-LAB-2-GIETU
+# CN-LAB-GIETU
 Computer Networks lab recordfor GIETU students
